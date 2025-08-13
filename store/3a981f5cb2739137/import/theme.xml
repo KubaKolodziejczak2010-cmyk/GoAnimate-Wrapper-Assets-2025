@@ -135,7 +135,7 @@
 <sound id="School Bell Sound Effect.mp3" name="School Bell Sound Effect" downloadtype="progressive" subtype="soundeffect" duration="3579" enable="Y" is_premium="N" aid="3579" money="0" sharing="0"/>
 <sound id="Door Opening 3.mp3" name="Door Opening 3" downloadtype="progressive" subtype="soundeffect" duration="1296" enable="Y" is_premium="N" aid="1296" money="0" sharing="0"/>
 <sound id="Door Closing 2.mp3" name="Door Closing 2" downloadtype="progressive" subtype="soundeffect" duration="576" enable="Y" is_premium="N" aid="576" money="0" sharing="0"/>
-<sound id="Body Fall Sound Effect.mp3" name="School Bell Sound Effect" downloadtype="progressive" subtype="soundeffect" duration="1776" enable="Y" is_premium="N" aid="1776" money="0" sharing="0"/>
+<sound id="Body Fall Sound Effect.mp3" name="Body Fall Sound Effect" downloadtype="progressive" subtype="soundeffect" duration="1776" enable="Y" is_premium="N" aid="1776" money="0" sharing="0"/>
 <sound id="School Bell Sound Effect.mp3" name="School Bell Sound Effect" downloadtype="progressive" subtype="soundeffect" duration="3579" enable="Y" is_premium="N" aid="3579" money="0" sharing="0"/>
 
 </theme>
