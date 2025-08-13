@@ -126,5 +126,16 @@
 <sound id="Door Closing.mp3" name="Door Closing" downloadtype="progressive" subtype="soundeffect" duration="836" enable="Y" is_premium="N" aid="836" money="0" sharing="0"/>
 <sound id="Door Opening.mp3" name="Door Opening" downloadtype="progressive" subtype="soundeffect" duration="862" enable="Y" is_premium="N" aid="862" money="0" sharing="0"/>
 <sound id="Door Locked.mp3" name="Door Locked" downloadtype="progressive" subtype="soundeffect" duration="1097" enable="Y" is_premium="N" aid="1097" money="0" sharing="0"/>
+<sound id="walking-sound-effect-272246.mp3" name="Walking Sound Effect" downloadtype="progressive" subtype="soundeffect" duration="4320" enable="Y" is_premium="N" aid="4320" money="0" sharing="0"/>
+<sound id="running-sound-effect-272246.mp3" name="Running Sound Effect" downloadtype="progressive" subtype="soundeffect" duration="3792" enable="Y" is_premium="N" aid="3792" money="0" sharing="0"/>
+<sound id="Door Opening 2.mp3" name="Door Opening 2" downloadtype="progressive" subtype="soundeffect" duration="1646" enable="Y" is_premium="N" aid="1646" money="0" sharing="0"/>
+<sound id="walking-sound-effect-272246.mp3" name="Walking Sound Effect" downloadtype="progressive" subtype="soundeffect" duration="4320" enable="Y" is_premium="N" aid="4320" money="0" sharing="0"/>
+<sound id="running-sound-effect-272246.mp3" name="Running Sound Effect" downloadtype="progressive" subtype="soundeffect" duration="3792" enable="Y" is_premium="N" aid="3792" money="0" sharing="0"/>
+<sound id="Door Opening 2.mp3" name="Door Opening 2" downloadtype="progressive" subtype="soundeffect" duration="1646" enable="Y" is_premium="N" aid="1646" money="0" sharing="0"/>
+<sound id="School Bell Sound Effect.mp3" name="School Bell Sound Effect" downloadtype="progressive" subtype="soundeffect" duration="3579" enable="Y" is_premium="N" aid="3579" money="0" sharing="0"/>
+<sound id="Door Opening 3.mp3" name="Door Opening 3" downloadtype="progressive" subtype="soundeffect" duration="1296" enable="Y" is_premium="N" aid="1296" money="0" sharing="0"/>
+<sound id="Door Closing 2.mp3" name="Door Closing 2" downloadtype="progressive" subtype="soundeffect" duration="576" enable="Y" is_premium="N" aid="576" money="0" sharing="0"/>
+<sound id="Body Fall Sound Effect.mp3" name="School Bell Sound Effect" downloadtype="progressive" subtype="soundeffect" duration="1776" enable="Y" is_premium="N" aid="1776" money="0" sharing="0"/>
+<sound id="School Bell Sound Effect.mp3" name="School Bell Sound Effect" downloadtype="progressive" subtype="soundeffect" duration="3579" enable="Y" is_premium="N" aid="3579" money="0" sharing="0"/>
 
 </theme>
