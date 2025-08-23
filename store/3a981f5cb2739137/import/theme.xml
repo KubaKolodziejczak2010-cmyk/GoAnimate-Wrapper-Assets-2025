@@ -164,5 +164,7 @@
 <prop id="Wrapper Offline Without Candy.png" name="Wrapper Offline (Without Candy)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="ym1iskwm.png" name="Wrapper Online Gold (2021)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <background id="1720.jpg" name="McDonald's (Community Library)"/>
+<prop id="GoExport Logo.png" name="GoExport Logo (2025)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="fdbz5bk9.png" name="GoAnimate Logo (2007-2018)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 
 </theme>
