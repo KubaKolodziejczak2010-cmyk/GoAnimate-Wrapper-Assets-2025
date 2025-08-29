@@ -19875,6 +19875,13 @@
   <text rgb="0" font="Blambot Casual" size="20" align="center" bold="false" italic="false">Double-click to input text</text>
 </bubble>
   <effect id="ncc_jp_sakura.swf" type="ANIME" resize="false" move="false" name="Sakura" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
+  <effect id="rainbow_effect_jacob2010.swf" type="ANIME" resize="false" move="false" name="Rainbow Effect (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
+        <effect id="color_mood_light_jacob2010.swf" type="ANIME" resize="false" move="false" name="Color Mood Light Effect (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
+        <effect id="epilepsy3_jacob2010.swf" type="ANIME" resize="false" move="false" name="Epilepsy 3 (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
+        <effect id="epilepsy_jacob2010.swf" type="ANIME" resize="false" move="false" name="Epilepsy (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
+<effect id="epilepsy2_jacob2010.swf" type="ANIME" resize="false" move="false" name="Epilepsy 2 (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
+<effect id="snow-fall-jacob2010.swf" type="ANIME" resize="false" move="false" name="Custom Snow Falling Effect (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
+        <effect id="invert_color_jacob2010.swf" type="ANIME" resize="false" move="false" name="Invert Color (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
   <effect id="ncc_sci002fx.swf" type="ANIME" resize="false" move="false" name="Snow storm" enable="Y" is_premium="N" aid="23186" money="0" sharing="0" display_order="0"/>
   <effect id="ncc_sci003fx.swf" type="ANIME" resize="false" move="false" name="Screenviewer" enable="Y" is_premium="N" aid="23187" money="0" sharing="0" display_order="0"/>
   <effect id="ncc_sci004fx.swf" type="ANIME" resize="false" move="false" name="Red alert" enable="Y" is_premium="N" aid="23188" money="0" sharing="0" display_order="0"/>
